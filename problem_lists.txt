@@ -1,0 +1,47 @@
+Array + HashMap / String
+
+LeetCode 1 – Two Sum
+
+LeetCode 217 – Contains Duplicate
+
+LeetCode 242 – Valid Anagram
+
+LeetCode 387 – First Unique Character in a String
+
+LeetCode 3 – Longest Substring Without Repeating Characters
+
+LeetCode 53 – Maximum Subarray
+
+LeetCode 189 – Rotate Array
+
+LeetCode 349 – Intersection of Two Arrays
+
+LeetCode 128 – Longest Consecutive Sequence
+
+Stack
+
+LeetCode 20 – Valid Parentheses
+
+LeetCode 1047 – Remove All Adjacent Duplicates in String
+
+LeetCode 496 – Next Greater Element I
+
+LeetCode 155 – Min Stack
+
+Binary Search
+
+LeetCode 704 – Binary Search
+
+LeetCode 35 – Search Insert Position
+
+LeetCode 162 – Find Peak Element
+
+LeetCode 278 – First Bad Version
+
+Linked List + Recursion / Backtracking
+
+LeetCode 206 – Reverse Linked List
+
+LeetCode 141 – Linked List Cycle
+
+LeetCode 78 – Subsets
