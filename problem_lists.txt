@@ -1,10 +1,10 @@
 Array + HashMap / String
 
-LeetCode 1 – Two Sum
+LeetCode 1 – Two Sum - Done
 
-LeetCode 217 – Contains Duplicate
+LeetCode 217 – Contains Duplicate - Done
 
-LeetCode 242 – Valid Anagram
+LeetCode 242 – Valid Anagram - Done
 
 LeetCode 387 – First Unique Character in a String
 
