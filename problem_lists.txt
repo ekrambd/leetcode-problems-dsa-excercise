@@ -6,7 +6,7 @@ LeetCode 217 – Contains Duplicate - Done
 
 LeetCode 242 – Valid Anagram - Done
 
-LeetCode 387 – First Unique Character in a String
+LeetCode 387 – First Unique Character in a String - Done
 
 LeetCode 3 – Longest Substring Without Repeating Characters
 
