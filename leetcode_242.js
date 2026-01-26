@@ -13,17 +13,19 @@ var isAnagram = function(s, t) {
         }
     }
     let map = new HashMap();
-    if(s.length != t.length) return false;
+    if(s.length !== t.length) return false;
     for(let i = 0; i < s.length; i++){
         let count = map.get(s[i]);
-        map.set(s[i],count+1);
+        if(count == null){
+            map.set(s[i],1);
+        }else{
+            map.set(s[i],count+1);
+        }
     }
     for(let i = 0; i < t.length; i++){
-        let count = map.get(t[i]);
-        if(count == 0) return false;
-        map.set(t[i],count-1);
+        if(map.get(t[i]) < 1) return false;
     }
-    return true;
+    return true
 };
 
 console.log(isAnagram("anagram", "nagaram"));
