@@ -8,7 +8,7 @@ LeetCode 242 – Valid Anagram - Done
 
 LeetCode 387 – First Unique Character in a String - Done
 
-LeetCode 3 – Longest Substring Without Repeating Characters
+LeetCode 3 – Longest Substring Without Repeating Characters - Done
 
 LeetCode 53 – Maximum Subarray
 
